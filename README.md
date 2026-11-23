@@ -99,7 +99,7 @@ I enjoy transforming innovative ideas into practical applications, participating
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/apurvakirke">
+  <a href="https://github.com/apurvakirve">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apurvakirve&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurvakirve&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
@@ -118,7 +118,7 @@ I enjoy transforming innovative ideas into practical applications, participating
 ## 👀 Profile Visitors
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=apurvakirke&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=apurvakirve&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
